@@ -19,8 +19,8 @@ public class questoes {
                 "Quem pintou a Mona Lisa?",
                 "Quantos lados tem um hexágono?",
                 "Qual é a maior montanha do mundo?",
-                "",
-                ""
+                "Qual é o idioma mais falado no mundo?",
+                "Quantos planetas compõem o sistema solar?"
         };
 
         String[][] opcoes = {
@@ -37,11 +37,11 @@ public class questoes {
                 {"1. Pablo Picasso", "2. Leonardo da Vinci", "3. Vincent van Gogh", "4. Michelangelo", "5. Salvador Dalí"},
                 {"1. 4 lados", "2. 5 lados", "3. 6 lados", "4. 7 lados", "5. 8 lados"},
                 {"1. Monte Kilimanjaro", "2. Monte Everest", "3. Mont Blanc", "4. Monte Aconcágua", "5. Monte Fuji"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. Espanhol", "2. Inglês", "3. Mandarim", "4. Árabe", "5. Hindi"},
+                {"1. 7 planetas", "2. 8  planetas", "3. 9 planetas", "4. 10 planetas", "5. 11 planetas"},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 2, 2, 3, 2, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 2, 2, 3, 2, 3, 2};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
