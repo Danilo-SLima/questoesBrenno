@@ -13,8 +13,8 @@ public class questoes {
                 "Quem escreveu \"Dom Quixote\"?",
                 "Qual é a fórmula química da água?",
                 "Em que ano o homem pisou na Lua pela primeira vez?",
-                "",
-                "",
+                "Qual animal é conhecido por sua capacidade de mudar de cor?",
+                "Qual país é famoso por sua Torre Eiffel?",
                 "",
                 "",
                 "",
@@ -31,8 +31,8 @@ public class questoes {
                 {"1. William Shakespeare", "2. Gabriel García Márquez", "3. Miguel de Cervantes", "4. Fernando Pessoa", "5. João Guimarães Rosa"},
                 {"1. H2", "2. CO2", "3. O2", "4. H2O", "5. HCl"},
                 {"1. 1965", "2. 1969", "3. 1972", "4. 1980", "5. 1990"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. Camaleão", "2. Elefante", "3. Leão", "4. Pinguim", "5. Baleia"},
+                {"1. Itália", "2. Reino Unido", "3. França", "4. Estados Unidos", "5. Alemanha"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
@@ -41,7 +41,7 @@ public class questoes {
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 0, 0, 0, 0, 0, 0};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
