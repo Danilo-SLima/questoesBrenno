@@ -15,8 +15,8 @@ public class questoes {
                 "Em que ano o homem pisou na Lua pela primeira vez?",
                 "Qual animal é conhecido por sua capacidade de mudar de cor?",
                 "Qual país é famoso por sua Torre Eiffel?",
-                "",
-                "",
+                "Qual é o maior oceano da Terra?",
+                "Quem pintou a Mona Lisa?",
                 "",
                 "",
                 "",
@@ -33,15 +33,15 @@ public class questoes {
                 {"1. 1965", "2. 1969", "3. 1972", "4. 1980", "5. 1990"},
                 {"1. Camaleão", "2. Elefante", "3. Leão", "4. Pinguim", "5. Baleia"},
                 {"1. Itália", "2. Reino Unido", "3. França", "4. Estados Unidos", "5. Alemanha"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. Oceano Atlântico", "2. Oceano Pacífico", "3. Oceano Índico", "4. Oceano Ártico", "5. Oceano Antártico"},
+                {"1. Pablo Picasso", "2. Leonardo da Vinci", "3. Vincent van Gogh", "4. Michelangelo", "5. Salvador Dalí"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 0, 0, 0, 0, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 2, 2, 0, 0, 0, 0};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
