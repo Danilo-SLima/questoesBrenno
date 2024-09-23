@@ -11,7 +11,7 @@ public class questoes {
                 "Quantos continentes existem na Terra?",
                 "Qual é o elemento químico representado pela letra \"O\" na tabela periódica?",
                 "Quem escreveu \"Dom Quixote\"?",
-                "",
+                "Qual é a fórmula química da água?",
                 "",
                 "",
                 "",
@@ -29,7 +29,7 @@ public class questoes {
                 {"1. 5 continentes", "2. 6 continentes", "3. 7 continentes", "4. 8 continentes", "5. 9 continentes"},
                 {"1. Oxigênio", "2. Ouro", "3. Ósmio", "4. Óxido", "5. Olíbdeno"},
                 {"1. William Shakespeare", "2. Gabriel García Márquez", "3. Miguel de Cervantes", "4. Fernando Pessoa", "5. João Guimarães Rosa"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. H2", "2. CO2", "3. O2", "4. H2O", "5. HCl"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
@@ -41,7 +41,7 @@ public class questoes {
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
