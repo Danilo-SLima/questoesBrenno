@@ -17,8 +17,8 @@ public class questoes {
                 "Qual país é famoso por sua Torre Eiffel?",
                 "Qual é o maior oceano da Terra?",
                 "Quem pintou a Mona Lisa?",
-                "",
-                "",
+                "Quantos lados tem um hexágono?",
+                "Qual é a maior montanha do mundo?",
                 "",
                 ""
         };
@@ -35,13 +35,13 @@ public class questoes {
                 {"1. Itália", "2. Reino Unido", "3. França", "4. Estados Unidos", "5. Alemanha"},
                 {"1. Oceano Atlântico", "2. Oceano Pacífico", "3. Oceano Índico", "4. Oceano Ártico", "5. Oceano Antártico"},
                 {"1. Pablo Picasso", "2. Leonardo da Vinci", "3. Vincent van Gogh", "4. Michelangelo", "5. Salvador Dalí"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. 4 lados", "2. 5 lados", "3. 6 lados", "4. 7 lados", "5. 8 lados"},
+                {"1. Monte Kilimanjaro", "2. Monte Everest", "3. Mont Blanc", "4. Monte Aconcágua", "5. Monte Fuji"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 2, 2, 0, 0, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 4, 2, 1, 3, 2, 2, 3, 2, 0, 0};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
