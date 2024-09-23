@@ -9,8 +9,8 @@ public class questoes {
                 "Qual é o planeta mais próximo do Sol?",
                 "Qual é a capital da França?",
                 "Quantos continentes existem na Terra?",
-                "",
-                "",
+                "Qual é o elemento químico representado pela letra \"O\" na tabela periódica?",
+                "Quem escreveu \"Dom Quixote\"?",
                 "",
                 "",
                 "",
@@ -27,8 +27,8 @@ public class questoes {
                 {"1. Terra", "2. Marte", "3. Júpiter", "4. Mercúrio", "5. Vênus"},
                 {"1. Berlim", "2. Londres", "3. Roma", "4. Paris", "5. Madri"},
                 {"1. 5 continentes", "2. 6 continentes", "3. 7 continentes", "4. 8 continentes", "5. 9 continentes"},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. Oxigênio", "2. Ouro", "3. Ósmio", "4. Óxido", "5. Olíbdeno"},
+                {"1. William Shakespeare", "2. Gabriel García Márquez", "3. Miguel de Cervantes", "4. Fernando Pessoa", "5. João Guimarães Rosa"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
@@ -41,7 +41,7 @@ public class questoes {
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
         };
 
-        int[] respostasCorretas = {4, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+        int[] respostasCorretas = {4, 4, 3, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
         int pontos = 0;
 
         // Loop para exibir cada pergunta e verificar a resposta
