@@ -6,9 +6,9 @@ public class questoes {
 
         // Perguntas e opções
         String[] perguntas = {
-                "",
-                "",
-                "",
+                "Qual é o planeta mais próximo do Sol?",
+                "Qual é a capital da França?",
+                "Quantos continentes existem na Terra?",
                 "",
                 "",
                 "",
@@ -24,9 +24,9 @@ public class questoes {
         };
 
         String[][] opcoes = {
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
-                {"1. ", "2. ", "3. ", "4. ", "5. "},
+                {"1. Terra", "2. Marte", "3. Júpiter", "4. Mercúrio", "5. Vênus"},
+                {"1. Berlim", "2. Londres", "3. Roma", "4. Paris", "5. Madri"},
+                {"1. 5 continentes", "2. 6 continentes", "3. 7 continentes", "4. 8 continentes", "5. 9 continentes"},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
                 {"1. ", "2. ", "3. ", "4. ", "5. "},
